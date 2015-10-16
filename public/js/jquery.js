@@ -1,3 +1,5 @@
+// hello ! \o/
+console.log('hello world');
 /*!
  * jQuery JavaScript Library v2.1.4
  * http://jquery.com/
